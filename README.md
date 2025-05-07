@@ -1,6 +1,6 @@
 # Shaun Rolph – Writing & Analysis Portfolio
 
-Welcome!  This repository showcases a selection of my academic and professional writing—from state‑budget explainers to econometric research and congressional reports.  Each piece highlights a different facet of my work: policy analysis, data‑driven research, program evaluation, and international development case studies.
+This repository showcases a selection of my academic and professional writing—from state‑budget explainers to econometric research and congressional reports.  Each piece highlights a different facet of my work: policy analysis, data‑driven research, program evaluation, and international development case studies.
 
 | Year | Title | Focus | Link |
 |------|-------|-------|------|
