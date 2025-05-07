@@ -12,4 +12,4 @@ This repository showcases a selection of my academic and professional writing. F
 | 2016 | **RIPEC Rhode Island Budget and Policy Analysis** | Public‑facing guide to the RI state budget and ballot initiatives (team project). | [RI Policy Analysis](https://www.ripec.org/pdfs/2016_Debt-and-Bond.pdf) |
 
 
-Questions or feedback? Open an issue or ping me on [LinkedIn](https://www.linkedin.com/in/shaun-rolph-79692b74/). Enjoy the read!
+Questions or feedback? Ping me on [LinkedIn](https://www.linkedin.com/in/shaun-rolph-79692b74/). Enjoy the read!
