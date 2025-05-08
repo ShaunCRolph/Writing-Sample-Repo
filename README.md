@@ -8,7 +8,7 @@ This repository showcases a selection of my academic and professional writing. F
 | 2021 | **Venezuela’s Economic and Financial Crisis** | Root‑cause analysis of the 2014 hyper‑inflation spiral, combining macro indicators with policy diagnostics. | [Venezuela Crisis](https://github.com/ShaunCRolph/Writing-Sample-Repo/blob/main/Venezuela%E2%80%99s%20Economic%20and%20Financial%20Crisis.pdf) |
 | 2021 | **India Social‑Scheme Impacts on Poverty** | Fixed‑effects regression on NREGA & PDS using 68th‑round HCES data; assesses effectiveness of India’s flagship anti‑poverty programs. | [India Social Schemes](https://github.com/ShaunCRolph/Writing-Sample-Repo/blob/main/India%20Social%20Scheme%20Impacts%20on%20Poverty.pdf) |
 | 2019 | **Bamboo Institute Case Study** | Peace Corps field research on green‑industry job creation in Timor‑Leste. | [Case Study](https://github.com/ShaunCRolph/Writing-Sample-Repo/blob/main/Bamboo%20Institute%20Case%20Study.pdf) |
-| 2018 | **Corruption’s Impact on Gov’t Health & Education Exspenditures** | Undergraduate thesis; cross‑country panel regressions and regional visualisations. | [Corruption Thesis](https://digitalcommons.bryant.edu/eeb/vol10/iss1/14/)|
+| 2018 | **Corruption’s Impact on Gov’s Health & Education Expenditures** | Undergraduate thesis; cross‑country panel regressions and regional visualisations. | [Corruption Thesis](https://digitalcommons.bryant.edu/eeb/vol10/iss1/14/)|
 | 2016 | **RIPEC Rhode Island Budget and Policy Analysis** | Public‑facing guide to the RI state budget and ballot initiatives (team project). | [RI Policy Analysis](https://www.ripec.org/pdfs/2016_Debt-and-Bond.pdf) |
 
 
